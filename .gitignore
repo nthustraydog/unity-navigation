@@ -1,0 +1,7 @@
+# skip file folder
+/*
+!/Customs/
+!completeScene.*
+!practiceScene.*
+!Customs.*
+!.gitignore
